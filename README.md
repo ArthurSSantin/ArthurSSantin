@@ -27,6 +27,10 @@ Estudante de Engenharia de Software na UNISATC. Construo aplicações web de pon
 - Estudando: React, arquitetura de APIs e modelagem de banco de dados.
 - Aberto a: estágio e projetos colaborativos.
 
+<p align="center">
+  <img src="assets/pescaria.svg" width="100%" alt="Boia de pesca balançando na água enquanto um peixe pula">
+</p>
+
 <details>
 <summary><b>🎣 Pesque uma curiosidade</b> (clique para puxar a linha)</summary>
 <br>
@@ -43,14 +47,35 @@ Estudante de Engenharia de Software na UNISATC. Construo aplicações web de pon
 <summary>Mais uma vez</summary>
 <br>
 
+> **Traíra:** foi uma traíra que arrancou o pedaço do rabo do Teimoso.
+
+<details>
+<summary>Tá beliscando...</summary>
+<br>
+
 > **Tilápia:** o TuneIsland não faz nenhuma conexão de rede. Tudo o que ele mostra vem do próprio Windows.
+
+<details>
+<summary>Mordeu!</summary>
+<br>
+
+> **Dourado:** o Lembrete Oficina estima quantos km o carro roda por dia para saber quando o cliente deve voltar.
+
+<details>
+<summary>Só mais uma</summary>
+<br>
+
+> **Pintado:** a IA do WhatsApp ignora mensagens de qualquer número que não seja o do dono.
 
 <details>
 <summary>Última, prometo</summary>
 <br>
 
-> **Dourado:** tem mais peixes escondidos no [portfólio](https://arthurssantin.github.io/#pescar), numa pescaria de verdade. Boa sorte. 🏆
+> **Bagre:** a arte e os sons de A Última Fisgada são gerados por scripts em Python, não desenhados à mão. Você pescou todos. 🏆
 
+</details>
+</details>
+</details>
 </details>
 </details>
 </details>
